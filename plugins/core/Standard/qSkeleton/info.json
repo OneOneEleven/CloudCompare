@@ -1,0 +1,27 @@
+{
+	"type" : "Standard",
+	"core" : true,
+	"name" : "Skeleton/fracture detection",
+	"icon" : ":/CC/plugin/qSkeleton/images/qSkeleton.png",
+	"description": "Skeleton Fracture detection plugin",
+	"authors" : [
+		{
+			"name" : "Huang"
+		}
+	],
+	"maintainers" : [
+    {
+      "name": "Huang"
+    }
+	],
+  "references": [
+    {
+      "text": "",
+      "url": ""
+    },
+    {
+      "text": "Documentation",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/CC/plugin/qSkeleton">
+        <file>info.json</file>
+        <file>images/qSkeleton.png</file>
+    </qresource>
+</RCC>

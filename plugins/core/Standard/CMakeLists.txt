@@ -15,7 +15,8 @@ add_subdirectory( qPoissonRecon )
 add_subdirectory( qRANSAC_SD )
 add_subdirectory( qSRA )
 add_subdirectory( qMeshBoolean )
-
+add_subdirectory( qSkeleton)
+ 
 #plugins integrated as submodules
 set( submod_plugins
 		${CMAKE_CURRENT_SOURCE_DIR}/qColorimetricSegmenter
