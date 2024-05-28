@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/CC/plugin/qLabeling">
+        <file>images/qSkeleton.png</file>
+        <file>info.json</file>
+    </qresource>
+</RCC>

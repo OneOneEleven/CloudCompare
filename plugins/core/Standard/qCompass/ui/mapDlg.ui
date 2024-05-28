@@ -51,7 +51,7 @@
       <string/>
      </property>
      <property name="icon">
-      <iconset resource="../../qCC/icons.qrc">
+      <iconset resource="../../../../../qCC/icons.qrc">
        <normaloff>:/CC/images/ccAddConstSF.png</normaloff>:/CC/images/ccAddConstSF.png</iconset>
      </property>
      <property name="popupMode">
@@ -129,6 +129,15 @@
           </color>
          </brush>
         </colorrole>
+        <colorrole role="PlaceholderText">
+         <brush brushstyle="NoBrush">
+          <color alpha="128">
+           <red>4</red>
+           <green>255</green>
+           <blue>0</blue>
+          </color>
+         </brush>
+        </colorrole>
        </active>
        <inactive>
         <colorrole role="Text">
@@ -145,6 +154,15 @@
           <color alpha="255">
            <red>3</red>
            <green>184</green>
+           <blue>0</blue>
+          </color>
+         </brush>
+        </colorrole>
+        <colorrole role="PlaceholderText">
+         <brush brushstyle="NoBrush">
+          <color alpha="128">
+           <red>4</red>
+           <green>255</green>
            <blue>0</blue>
           </color>
          </brush>
@@ -166,6 +184,15 @@
            <red>120</red>
            <green>120</green>
            <blue>120</blue>
+          </color>
+         </brush>
+        </colorrole>
+        <colorrole role="PlaceholderText">
+         <brush brushstyle="NoBrush">
+          <color alpha="128">
+           <red>4</red>
+           <green>255</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -212,6 +239,15 @@
           </color>
          </brush>
         </colorrole>
+        <colorrole role="PlaceholderText">
+         <brush brushstyle="NoBrush">
+          <color alpha="128">
+           <red>0</red>
+           <green>255</green>
+           <blue>255</blue>
+          </color>
+         </brush>
+        </colorrole>
        </active>
        <inactive>
         <colorrole role="Text">
@@ -232,6 +268,15 @@
           </color>
          </brush>
         </colorrole>
+        <colorrole role="PlaceholderText">
+         <brush brushstyle="NoBrush">
+          <color alpha="128">
+           <red>0</red>
+           <green>255</green>
+           <blue>255</blue>
+          </color>
+         </brush>
+        </colorrole>
        </inactive>
        <disabled>
         <colorrole role="Text">
@@ -249,6 +294,15 @@
            <red>120</red>
            <green>120</green>
            <blue>120</blue>
+          </color>
+         </brush>
+        </colorrole>
+        <colorrole role="PlaceholderText">
+         <brush brushstyle="NoBrush">
+          <color alpha="128">
+           <red>0</red>
+           <green>255</green>
+           <blue>255</blue>
           </color>
          </brush>
         </colorrole>
@@ -306,7 +360,7 @@
   </layout>
  </widget>
  <resources>
-  <include location="../../qCC/icons.qrc"/>
+  <include location="../../../../../qCC/icons.qrc"/>
  </resources>
  <connections/>
 </ui>

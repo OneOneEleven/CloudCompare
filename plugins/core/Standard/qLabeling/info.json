@@ -1,0 +1,27 @@
+{
+	"type" : "Standard",
+	"core" : true,
+	"name" : "Labeling",
+	"icon" : ":/CC/plugin/qLabeling/images/qSkeleton.png",
+	"description": "Labeling point cloud plugin",
+	"authors" : [
+		{
+			"name" : "Huang"
+		}
+	],
+	"maintainers" : [
+    {
+      "name": "Huang"
+    }
+	],
+  "references": [
+    {
+      "text": "",
+      "url": ""
+    },
+    {
+      "text": "Documentation",
+      "url": ""
+    }
+  ]
+}
